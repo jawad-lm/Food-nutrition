@@ -6,7 +6,7 @@ import java.util.Scanner;
 import java.util.Timer;
 
 public class Foodmain {
-
+//yeet
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner s = new Scanner(System.in);
